@@ -14,8 +14,10 @@ The dataset can be found at [Steam Reviews Dataset](https://www.kaggle.com/datas
 ## Project Structure
 - `Review_Sentiment_Analysis.ipynb`: The main Jupyter Notebook containing the code for sentiment analysis.
 - `Report_Review_Sentiment_Analysis.pdf`> Contain the report of the project.
-- File you need to download (other than Dataset):
+- File you need to download (you also need the Dataset):
 - `glove.txt`: The GloVe word embeddings file used for text vectorization.
+- Folder with all files:
+- https://drive.google.com/drive/folders/1LhXufWteNE-C2pGayVOPGBcM-RdZD0MP?usp=sharing
   
 
 
