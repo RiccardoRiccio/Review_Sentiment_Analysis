@@ -13,7 +13,7 @@ The dataset can be found at [Steam Reviews Dataset](https://www.kaggle.com/datas
 
 ## Project Structure
 - `Review_Sentiment_Analysis.ipynb`: The main Jupyter Notebook containing the code for sentiment analysis.
-- `Report_Review_Sentiment_Analysis.pdf`> Contain the report of the project.
+- `Report_Review_Sentiment_Analysis_Original.pdf`> Contain the report of the project.
 - File you need to download (you also need the Dataset):
 - `glove.txt`: The GloVe word embeddings file used for text vectorization.
 - Folder with all files:
@@ -34,6 +34,6 @@ The dataset can be found at [Steam Reviews Dataset](https://www.kaggle.com/datas
 - Transformers (BERT, RoBERTa)
 
 ### Usage
-Open and run Review_Sentiment_Analysis.ipynb to perform sentiment analysis on reviews.
+Open and run Review_Sentiment_Analysis_Original.ipynb to perform sentiment analysis on reviews.
 Ensure you have the glove.txt file and the dataset in your project directory.
 
