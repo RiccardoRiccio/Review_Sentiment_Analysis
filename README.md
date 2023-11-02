@@ -3,7 +3,7 @@
 ## Description
 This project conducts sentiment analysis on reviews using a combination of machine learning and state-of-the-art deep learning techniques. It applies preprocessing, hyperparameter tuning, and resampling techniques to enhance accuracy and performance.
 
-The dataset can be found at [Steam Reviews Dataset](https://www.kaggle.com/datasets/andrewmvd/steam-reviews), and it requires the GloVe word embeddings file from [Stanford NLP Group](https://nlp.stanford.edu/projects/glove/).
+The dataset can be found at [Steam Reviews Dataset](https://www.kaggle.com/datasets/andrewmvd/steam-reviews), and it requires the GloVe word embeddings file from [Stanford NLP Group](https://nlp.stanford.edu/projects/glove/) (the 100 dimensional embeddings).
 
 ## Table of Contents
 - [Project Structure](#project-structure)
@@ -14,7 +14,7 @@ The dataset can be found at [Steam Reviews Dataset](https://www.kaggle.com/datas
 ## Project Structure
 - `Review_Sentiment_Analysis.ipynb`: The main Jupyter Notebook containing the code for sentiment analysis.
 - `glove.txt`: The GloVe word embeddings file used for text vectorization.
-- `requirements.txt`: List of Python libraries required for this project.
+
 
 ## Getting Started
 ### Prerequisites
