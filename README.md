@@ -26,9 +26,6 @@ The dataset can be found at [Steam Reviews Dataset](https://www.kaggle.com/datas
 - Python installed on your machine.
 - Create a virtual environment to manage dependencies.
 
-### Installation
-To install the required Python packages, run the following command in your project directory:
-
 ### Technologies Used
 - Python
 - Keras
